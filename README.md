@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👋 Hi, I'm Soni!
 
-<!--
-**soni-27/Soni-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+With a background in sales and market research, I’ve recently taken the exciting leap into the world of web development. I'm currently learning Ruby on Rails and building out my portfolio site — [sunflowerly.space](https://sunflowerly.space). I’ve also been experimenting with Arduino, where I’ve programmed a fun little LED light display!
 
-Here are some ideas to get you started:
+I'm looking for a customer support role at a tech startup — a space where I can support users with empathy, stay close to the product, and keep leveling up as a developer every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- 🔭 Currently working on: My portfolio website – https://sunflowerly.space  
+- 🌱 Currently learning: Ruby on Rails  
+- 👯 Looking to collaborate on: Beginner-friendly Ruby projects  
+- 📚 Ask me about: Book recommendations!  
+- 📫 How to reach me: aastha88soni@gmail.com or open an issue  
+- 😄 Pronouns: She/her  
+- ⚡ Hobbies: I love reading, painting, and swimming
